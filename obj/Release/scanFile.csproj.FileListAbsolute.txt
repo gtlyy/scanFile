@@ -1,0 +1,10 @@
+C:\Users\Administrator\Source\Repos\scanFile\bin\Release\scanFile.exe.config
+C:\Users\Administrator\Source\Repos\scanFile\bin\Release\scanFile.exe
+C:\Users\Administrator\Source\Repos\scanFile\bin\Release\scanFile.pdb
+C:\Users\Administrator\Source\Repos\scanFile\obj\Release\scanFile.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\scanFile\obj\Release\scanFile.Form1.resources
+C:\Users\Administrator\Source\Repos\scanFile\obj\Release\scanFile.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\scanFile\obj\Release\scanFile.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\scanFile\obj\Release\scanFile.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\scanFile\obj\Release\scanFile.exe
+C:\Users\Administrator\Source\Repos\scanFile\obj\Release\scanFile.pdb
