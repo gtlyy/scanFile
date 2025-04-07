@@ -6,4 +6,4 @@ Find the file can't copy to linux from windows. 【仅在windows平台运行】
 ![](./screenshot.png)
 
 ## Licence
-GNU GENERAL PUBLIC LICENSE Version 3
+MIT License - see LICENSE for more details
